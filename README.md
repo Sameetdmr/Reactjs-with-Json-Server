@@ -1,4 +1,4 @@
-## Reactjs kullanılarak Mockoon Api üzerinden Fake istek sağlandı.
+## Reactjs
 
 Gerekli teknolojiler eklendi. ( React, Babel, Webpack)
 
